@@ -2,7 +2,7 @@
 
 Mawu is a CMS for Arcturus MorningStar, with updated HoloCMS(2008) system.
 
-Mawu was made by MiguelGonzalezAravena, MarcoCuel, Wulles, Skorp and WagnerDiniz.
+Mawu was made by MiguelGonzalezAravena, MarcoCuel, Brytch, Wulles, Skorp and WagnerDiniz.
 
 ## Compatible
 
